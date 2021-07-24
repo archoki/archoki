@@ -50,6 +50,10 @@ def assets(path):
 def font(path):
   return send_from_directory("font", path)
 
+@app.route("/lib/<path:path>")
+def lib(path):
+  return send_from_directory("lib", path)
+
 if __name__ == "__main__":
   app.run(
     port=PORT,
