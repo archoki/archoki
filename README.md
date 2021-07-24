@@ -21,4 +21,4 @@ A developer from The Earth. Totally not a superhuman.
 ## Activity
 ![](https://github-readme-stats.vercel.app/api?username=archoki&show_icons=true&theme=highcontrast&hide_border=true)\
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=archoki&theme=highcontrast&hide_border=true&layout=compact&langs_count=10)\
-![](https://github-readme-stats.vercel.app/api/wakatime?username=username&theme=highcontrast&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=username&theme=highcontrast&layout=compact&hide_border)
