@@ -1,0 +1,24 @@
+{
+  "name": "archoki",
+  "version": "1.0.0",
+  "description": "GitHub profile repository",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archoki/archoki.git"
+  },
+  "keywords": [
+    "profile",
+    "readme",
+    "github",
+    "repository"
+  ],
+  "author": "archoki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/archoki/archoki/issues"
+  },
+  "homepage": "https://github.com/archoki/archoki#readme",
+  "dependencies": {
+    "png-to-ico": "^2.1.2"
+  }
+}
